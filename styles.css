@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+}
+.container {
+    background: white;
+    padding-bottom: 30px;
+    width: 485px;
+    
+}
+.header {
+    display: flex;
+    width: 485px;
+    height: 60px;
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.icon {
+    float: left;
+    width: 40px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+.menu {
+    float: right;
+    width: 25px;
+    margin-left: 350px;
+    margin-top: 10px;
+    font-size: 25px;
+    padding-right: 10px;
+}
+.headings {
+    width: 100px;
+    margin-top: 8px;
+}
+.image-holder {
+    width: 500px;
+}
+.action-bar {
+    display: flex;
+    width: 485px;
+    font-size: 25px;
+    padding-top: 5px;
+}
+.first-action{
+    width: 450px;
+    padding-left: 10px;
+}
+.second-action {
+    width: 20px;
+    padding-right: 10px;
+}
+.like-bar {
+    width: 480px;
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.comments {
+    width: 480px;
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+}
